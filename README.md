@@ -1,2 +1,2 @@
-#vagrant project
+# vagrant project
 - working with virtual machines
